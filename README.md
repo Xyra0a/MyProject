@@ -10,6 +10,6 @@ Description: A full-stack e-commerce site with admin dashboard and payment integ
 ## 📊 Class Dashboard
 **Tech Stack:** Laravel, Bootstrap
 
-Description: Dashboard Teacher & Student to Make It Easier for Teachers to Organize Student Assessments and Student Can See His Assements
+Description: Dashboard Teacher & Student to Make It Easier for Teachers to Organize Student Assessments and Student Can See His Assessments 
 🔗 [View Project](https://github.com/Xyra0a/LSP_SMK_2024/tree/main/LSP_9_2)
 
