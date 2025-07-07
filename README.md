@@ -18,6 +18,6 @@ Description: A dashboard system for teachers and students that helps manage and 
 
 ## ✍️ Blog 
 
-Decription : Teach you how to make API in Laravel 12
+Decription : A complete beginner-friendly guide on how to build a simple API using Laravel 12. Perfect for aspiring web developers who want to understand the fundamentals of API development in Laravel.
 
 🔗 [View Project](https://medium.com/@faridappratama/cara-membuat-api-sederhana-dengan-laravel-12-panduan-untuk-web-developer-pemula-e5d2fe9a27ae)
