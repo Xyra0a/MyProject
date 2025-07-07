@@ -16,3 +16,8 @@ Description: A dashboard system for teachers and students that helps manage and 
 
 🔗 [View Project](https://github.com/Xyra0a/LSP_SMK_2024/tree/main/LSP_9_2) -> And This Is Project I Have Teach To My Friend For BNSP Certification
 
+## ✍️ Blog 
+
+Decription : Teach you how to make API in Laravel 12
+
+🔗 [View Project](https://medium.com/@faridappratama/cara-membuat-api-sederhana-dengan-laravel-12-panduan-untuk-web-developer-pemula-e5d2fe9a27ae)
